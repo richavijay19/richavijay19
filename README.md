@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @richavijay19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Richa Vijat
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Analytics
+
+
 
 <!---
 richavijay19/richavijay19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
