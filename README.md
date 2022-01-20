@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richa Vijat
+- 👋 Hi, I’m Richa Vijay
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics
 
